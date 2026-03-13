@@ -71,3 +71,8 @@ These findings suggest that companies should focus on improving retention strate
 
 ### Customer Tenure vs Churn
 ![Tenure vs Churn](images/tenure_vs_churn.png)
+
+## Files
+- **customer_churn_analysis.ipynb** – Jupyter notebook containing the full data analysis and visualizations  
+- **images/churn_distribution.png** – Chart showing the distribution of customer churn  
+- **images/tenure_vs_churn.png** – Visualization of customer tenure comparison between churned and retained customers
