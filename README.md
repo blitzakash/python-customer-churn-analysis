@@ -63,3 +63,11 @@ The analysis revealed several important patterns related to customer churn:
 - **Customer Tenure:** Customers with shorter tenure are significantly more likely to churn compared to long-term customers.
 
 These findings suggest that companies should focus on improving retention strategies for new customers and customers with month-to-month contracts.
+
+## Visualizations
+
+### Customer Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Customer Tenure vs Churn
+![Tenure vs Churn](images/tenure_vs_churn.png)
